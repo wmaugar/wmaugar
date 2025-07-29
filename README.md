@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m Electronic Systems Engineer from Bolivia
-- 🌱 I’m own a MIT's xPRO Profesional certificate of Coding: Full Stack Development with MERN
-- - 🤔 I’m open to work and colaborate FRONT END and FULL STACK Web Development.
+- 🌱 I’m a Full Stack Developer, and obtained a professional certification on coding of Massachussets Institute of Technology.
+- 😎 I’m open to work and colaborate in FRONT END and FULL STACK Web Development.
 - 👯 I’m looking to collaborate on Technology projects.
 - 📫 How to reach me: wmgarciaporcel@outlook.com
